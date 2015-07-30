@@ -1,5 +1,7 @@
 # git-tutorial-
 Repository for all related git tutorial courses/lessons
+#
+Hello World
+===========
 
-
-Changes were made on README file. This is a sample repository only.
+Hello World! Text inside the README file was changed!
